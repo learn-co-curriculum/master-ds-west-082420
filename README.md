@@ -69,8 +69,8 @@ This way, you can make changes to the notebooks on your local computer, then pus
 ## Module 1, Week 1
 | Day | Subject           | Link                                                                                                                                                                   | Video                   |
 |-----|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
-|   1 | Program Intro     | [Intro_deck]()                                                                                                                                                         | [Program Intro]()       |
+|   1 | Program Intro     | [Intro_deck]()                                                                                                                                                         | |
 |   1 | Unix Fundamentals | [Unix Fundamentals Deck]()                                                                                                                                             |                         |
-|   1 | Environment Setup | [Professional Data Science Environment](https://docs.google.com/presentation/d/1-GZy9KEZWd0aBbs8l1tdYFLhtsLH3jSW1TtDCeWOVlk/edit#slide=id.g5b87c484ed_1_154)           | [Pro DS Envivornment]() |
-|   1 | Terminal Exercise | [Terminal Exercise Deck])(https://github.com/learn-co-students/terminal_exercise-ds-west-082420) |                         |
+|   1 | Environment Setup | [Professional Data Science Environment](https://docs.google.com/presentation/d/1-GZy9KEZWd0aBbs8l1tdYFLhtsLH3jSW1TtDCeWOVlk/edit#slide=id.g5b87c484ed_1_154)           | |
+|   1 | Terminal Exercise | [Terminal Exercise Deck](https://github.com/learn-co-students/terminal_exercise-ds-west-082420) |                         |
 |     |                   |                                                                                                                                                                        |                         |
