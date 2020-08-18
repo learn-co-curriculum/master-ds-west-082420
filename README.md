@@ -67,12 +67,12 @@ This way, you can make changes to the notebooks on your local computer, then pus
 **Quick note:** When creating your repo structure, do not initialize or clone reposistories within folders that are themselves git repos.  
 
 ## Module 1, Week 1
-| Day | Subject           | Link                                                                                                                                                         | Video |
-|-----+-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------+-------|
+| Day | Subject           | Link                                                                                                                                                        | Video |
+|----|----|----|---|
 |   1 | Program Intro     | [Intro_deck]()                                                                                                                                               |       |
 |   1 | Unix Fundamentals | [Unix Fundamentals Deck]()                                                                                                                                   |       |
 |   1 | Environment Setup | [Professional Data Science Environment](https://docs.google.com/presentation/d/1-GZy9KEZWd0aBbs8l1tdYFLhtsLH3jSW1TtDCeWOVlk/edit#slide=id.g5b87c484ed_1_154) |       |
-|   1 | Terminal Exercise | [Terminal Exercise Deck](https://github.com/learn-co-students/terminal_exercise-ds-west-082420)                                                              |       |
+|   1 | Terminal Exercise | [Terminal Exercise Deck](https://github.com/learn-co-students/terminal_exercise-ds-west-082420)                            |       |
 |   2 | Python 101        | [Python 101](https://github.com/learn-co-students/python_101_seattle-chicago-ds)                                                                             |       |
 |   2 | Python 201        | [Python 201](https://github.com/learn-co-students/ds_west_082420-python-part-II/)                                                                            |       |
 |   3 | Github            | [Github_repo](https://github.com/learn-co-students/github_ds-west-082420.git)                                                                                |       |
