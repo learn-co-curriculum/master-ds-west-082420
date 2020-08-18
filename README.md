@@ -68,14 +68,13 @@ This way, you can make changes to the notebooks on your local computer, then pus
 
 ## Module 1, Week 1
 | Day | Subject           | Link                                                                                                                                                         | Video |
-|-----|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+|-----+-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------+-------|
 |   1 | Program Intro     | [Intro_deck]()                                                                                                                                               |       |
 |   1 | Unix Fundamentals | [Unix Fundamentals Deck]()                                                                                                                                   |       |
 |   1 | Environment Setup | [Professional Data Science Environment](https://docs.google.com/presentation/d/1-GZy9KEZWd0aBbs8l1tdYFLhtsLH3jSW1TtDCeWOVlk/edit#slide=id.g5b87c484ed_1_154) |       |
 |   1 | Terminal Exercise | [Terminal Exercise Deck](https://github.com/learn-co-students/terminal_exercise-ds-west-082420)                                                              |       |
-|   2 | Python 101        | [Python 101](https://github.com/learn-co-students/python_101_seattle-chicago-ds)                                                                                                                                                 |       |
-|   2 | Python 201        | [Python 201](https://github.com/learn-co-students/ds_west_082420-python-part-II/import
-)                                                                                                                                                 |       |
-
-
-
+|   2 | Python 101        | [Python 101](https://github.com/learn-co-students/python_101_seattle-chicago-ds)                                                                             |       |
+|   2 | Python 201        | [Python 201](https://github.com/learn-co-students/ds_west_082420-python-part-II/)                                                                            |       |
+|   3 | Github            | [Github_repo](https://github.com/learn-co-students/github_ds-west-082420.git)                                                                                |       |
+|   3 | Github            | [Git deck](https://docs.google.com/presentation/d/1pTTuC2haw7iLbkKtOG8Id1dZdLRDc3v89iN9xEsS918/edit#slide=id.g55da4cf737_0_94)                               |       |
+|   3 | Github            | [Git workflow deck](https://docs.google.com/presentation/d/1FEgL_M-7eyRy2pxKaOmS_1yWddVNDdOZWxf7AFa62hc/edit#slide=id.g5a88649ce4_0_65)                      |       |
